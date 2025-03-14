@@ -38,11 +38,3 @@ Kotlin / Java
 
 MediaPlayer para la reproducción de audio
 
-🤝 Contribuciones
-
-¡Las contribuciones son bienvenidas! Si tienes ideas para mejorar la app, abre un issue o envía un pull request.
-
-📜 Licencia
-
-Este proyecto está bajo la licencia MIT. ¡Disfruta y comparte! 🎶
-
